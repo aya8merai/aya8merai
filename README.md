@@ -18,8 +18,6 @@
 🎲 Fun fact: I sometimes test my code in multiple ways just to see which one breaks first. 😄
 </p>
 
----
-
 <h2 align="left">I code with</h2>
 
 <div align="left">
