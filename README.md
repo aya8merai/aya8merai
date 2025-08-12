@@ -1,4 +1,4 @@
-# Hi, I'm Yui 👋
+# Hi, I'm Aya 👋
 
 I am a web development learner focusing on **Full Stack Web Development**.  
 I enjoy building projects to apply what I learn and improve my problem-solving skills.
