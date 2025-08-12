@@ -19,16 +19,6 @@
 
 ---
 
-<h2 align="left">Projects</h2>
-
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| **AboutMe React App** | A personal "About Me" page built with React. | React, CSS |
-| **Vite JSON Posts App** | Fetches fake JSON posts with pagination, loading, and error states. | React, Axios, MUI |
-| **E-Commerce App** | Basic e-commerce site with product listing and details. | React, MUI, Router |
-
----
-
 <h2 align="left">I code with</h2>
 
 <div align="left">
@@ -57,3 +47,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode" />
   <img width="12" />
   <img src="https://cdn.jsde
+
+---
+
+<h2 align="left">Projects</h2>
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| **AboutMe React App** | A personal "About Me" page built with React. | React, CSS |
+| **Vite JSON Posts App** | Fetches fake JSON posts with pagination, loading, and error states. | React, Axios, MUI |
+| **E-Commerce App** | Basic e-commerce site with product listing and details. | React, MUI, Router |
