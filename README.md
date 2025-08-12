@@ -1,20 +1,21 @@
-# Hi, I'm Aya 👋
+<h1 align="left">Hey 👋 What's up?</h1>
 
-I am a web development learner focusing on **Full Stack Web Development**.  
-I enjoy building projects to apply what I learn and improve my problem-solving skills.
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">
+✨ Creating bugs since 2023<br>
+📚 I'm currently learning Full Stack Web Development and improving my problem-solving skills in JavaScript.<br>
+🎯 Goals: Build practical and well-structured projects and enhance my coding logic.<br>
+🎲 Fun fact: I sometimes test my code in multiple ways just to see which one breaks first. 😄
+</p>
 
 ---
 
-## Skills
-
-- **Front-End**: HTML, CSS, JavaScript (ES6+), React.js, Vite, MUI
-- **Version Control**: Git, GitHub
-- **Other Tools**: VS Code, Postman
-- **Concepts**: REST APIs, Responsive Design, Pagination, Data Fetching
-
----
-
-## Projects
+<h2 align="left">Projects</h2>
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
@@ -24,14 +25,31 @@ I enjoy building projects to apply what I learn and improve my problem-solving s
 
 ---
 
-## GitHub Stats
+<h2 align="left">I code with</h2>
 
-![Yui's GitHub stats](https://github-readme-stats.vercel.app/api?username=aya8merai&show_icons=true&theme=default)
-
----
-
-## Contact
-
-- **Email**: aya5312.merai@gmail.com  
-- **GitHub**: [@aya8merai](https://github.com/aya8merai)
-
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" alt="mui" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode" />
+  <img width="12" />
+  <img src="https://cdn.jsde
