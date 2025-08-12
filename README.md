@@ -12,10 +12,10 @@
 ###
 
 <p align="left">
-✨ Creating bugs since 2021<br>
+✨ Creating bugs since 2021.<br>
 📚 I'm currently learning Full Stack Web Development and improving my problem-solving skills in JavaScript.<br>
 🎯 Goals: Build practical and well-structured projects and enhance my coding logic.<br>
-🎲 Fun fact: I sometimes test my code in multiple ways just to see which one breaks first. 😄
+🎲 Fun fact: I sometimes test my code in multiple ways just to see which one breaks first.
 </p>
 
 <h2 align="left">I code with</h2>
